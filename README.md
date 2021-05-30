@@ -22,3 +22,4 @@ Here are the reference that we used when we were making this app :
 - https://youtu.be/21H7uPS8_3Y (to create the video conferencing app using jitsi meet plugin)
 - https://www.kaggle.com/gcdatkin/introvert-extrovert-classification (the machine learning model example that we used)
 - https://www.kaggle.com/datasnaek/mbti-type (the dataset we used for the machine learning model)
+- https://youtu.be/RhjBDxpAOIc (to add Tensorflow Lite into the android studio)
