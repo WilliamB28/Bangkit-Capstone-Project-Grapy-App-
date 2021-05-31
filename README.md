@@ -9,9 +9,14 @@ Here are the first thing you need to do in order for you to copy the project :
 1. Create a Project in the Google Cloud Platform 
 2. Connect the GCP Project into the Firebase Console 
 4. Make sure to install the latest version of the Android Studio 
-5. Download the Grapy App Project from Git repository
-6. Open the Android Studio and click File > New > Import Project then select the Grapy App Project. 
-7. Connect the android studio project to the Firebase Console in order to be able to use the Firestore Function
+5. Connect the android studio project to the Firebase Console in order to be able to use the Firestore Function
+6. Create the Text Classification Tflite Model
+7. Copy the code shown in the git repository
+
+Other step to follow im order to copy this project 
+1. Download the Grapy App Project from Git repository
+2. Open the Android Studio and click File > New > Import Project then select the Grapy App Project. 
+3. Connect the android studio project to the Firebase Console in order to be able to use the Firestore Function
 
 
 # Reference we used to create the app 
